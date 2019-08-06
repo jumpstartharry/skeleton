@@ -1,2 +1,0 @@
-# skeleton
-Created with CodeSandbox
